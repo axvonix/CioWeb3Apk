@@ -1,0 +1,20 @@
+# local state
+# secrets - never commit
+*.apk
+*.keystore
+*.tmp
+.cache/
+.keys
+.ks_pass
+build.log
+cio.keystore
+config.conf
+history.log
+ks_pass.txt
+lib/
+links.log
+output/
+profiles/
+projects/
+setup.log
+steps.log
