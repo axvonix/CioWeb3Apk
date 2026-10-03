@@ -1,9 +1,3 @@
-#!/data/data/com.termux/files/usr/bin/bash
-# ╔══════════════════════════════════════════╗
-# ║  CioWeb3Apk v3.5 - Website to APK        ║
-# ║  Dev : Cio-ID                            ║
-# ╚══════════════════════════════════════════╝
-
 VERSION="3.5"
 shopt -u patsub_replacement 2>/dev/null   # keep "&" literal in ${var//x/y}
 BASE="$(cd "$(dirname "$(readlink -f "$0")")" && pwd)"
