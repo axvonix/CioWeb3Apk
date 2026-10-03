@@ -50,7 +50,7 @@ Tekan **Izinkan** pada dialog yang muncul.
 
 **Langkah 3 — Clone repo**
 ```bash
-git clone https://github.com/Cio-ID/CioWeb3Apk
+git clone https://github.com/axvonix/CioWeb3Apk
 cd CioWeb3Apk
 ```
 
@@ -398,7 +398,7 @@ git init
 git add .
 git commit -m "CioWeb3Apk v3.5"
 git branch -M main
-git remote add origin https://github.com/Cio-ID/CioWeb3Apk.git
+git remote add origin https://github.com/axvonix/CioWeb3Apk.git
 git push -u origin main
 ```
 File `.gitignore` sudah mengecualikan keystore, password keystore, config, log, dan hasil build — **jangan hapus** agar kunci tanda tangan tidak bocor.
